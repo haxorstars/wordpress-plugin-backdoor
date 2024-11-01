@@ -18,9 +18,6 @@
 
     /wp-content/plugins/wp-file-upload/wp-file-upload.php?nulz&ganteng
     /wp-content/plugins/wp-file-upload/index.php?nulz=ganteng
-    /wp-content/plugins/wp-file-upload/simple.php
-    /wp-content/plugins/wp-file-upload/x.php
-    /wp-content/plugins/wp-file-upload/xx.php
 
 ![Exploit](https://raw.githubusercontent.com/haxorstars/wordpress-plugin-backdoor/main/example/wp-exploit.PNG)
 
